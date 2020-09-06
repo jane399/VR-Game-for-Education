@@ -18,4 +18,3 @@
   - Stage2 : Quiz
 
 ## Overview
-![그림1](https://user-images.githubusercontent.com/18116207/92322677-ac3cf900-f06d-11ea-96c3-1e2d0d558505.png)

@@ -18,7 +18,7 @@
   - Stage2 : Quiz
 
 ## Overview
-<p align="left"> <img src="./img/overview.png" width="60%"/> </p>
+<p align="center"> <img src="./img/overview.png" width="60%"/> </p>
 
 ## Detail
 

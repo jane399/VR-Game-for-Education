@@ -1,5 +1,5 @@
 # MEET ANIMALS
-### Educational game for toddlers that user can see animals and learn about them in english
+> Educational game for toddlers that user can see animals and learn about them in english
 
 ## Target Users
   - Any toddlers who want to learn English words
